@@ -1,0 +1,4 @@
+CREATE TABLE `workspace` (
+	`id` text PRIMARY KEY NOT NULL,
+	`data` text NOT NULL
+);
